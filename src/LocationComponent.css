@@ -1,0 +1,44 @@
+.location-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #f0e6f6;
+    border-radius: 10px;
+    width: 80%;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+h1 {
+    color: #7b4397;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+.emergency-button {
+    background-color: #ff4d4d;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.emergency-button:hover {
+    background-color: #e60000;
+}
+
+.location-info {
+    color: #2d862d;
+    font-weight: bold;
+}
+
+.error-message {
+    color: #cc0000;
+    font-weight: bold;
+}
